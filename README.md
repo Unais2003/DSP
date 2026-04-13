@@ -7,7 +7,7 @@
 
 ## Authors
 
-- **Name:** Perinchikkal Muhammed Unais & Häfele Raphael
+- **Name:** Perinchikkal Muhammed Unais
 - **Institution:** FH Joanneum
 - **Program:** Data Science and Artificial Intelligence
 - **Creation Date:** 14. March 2026
