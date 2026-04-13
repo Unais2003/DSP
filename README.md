@@ -3,13 +3,13 @@
 [![GitLab](https://img.shields.io/badge/GitLab-Project-orange?style=flat&logo=gitlab)](https://git-iit.fh-joanneum.at/u58e87)
 [![Status](https://img.shields.io/badge/Status-In_Progress-blue?style=flat)](#)
 
----
+
 
 ## Overview
 
 This repository contains comprehensive coursework for **Digital Signal Processing (DAT_SS2026_2)** at FH Joanneum. The project features an interactive Streamlit data application that consolidates all course assignments and practical exercises.
 
----
+
 
 ##  Author
 
