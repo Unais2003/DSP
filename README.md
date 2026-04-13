@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This repository contains comprehensive coursework for **Digital Signal Processing (DAT_SS2026_2)** at FH Joanneum. The project features an interactive Streamlit data application that consolidates all course assignments and practical exercises.
 
 ---
 
-## 👤 Author
+##  Author
 
 - **Name:** Perinchikkal Muhammed Unais
 - **Institution:** FH Joanneum
@@ -22,13 +22,25 @@ This repository contains comprehensive coursework for **Digital Signal Processin
 
 ---
 
-## 🎯 Project Description
+##  Project Description
 
 This project implements various Digital Signal Processing concepts and techniques through a Streamlit-based interactive application. It covers fundamental DSP principles, algorithms, and their practical applications.
 
+##  Core Topics Covered
+
+- Sampling and Quantization
+- Fourier Analysis & FFT
+- Filtering Techniques
+- Signal Convolution
+- Z-Transform
+- Digital Filter Design
+- Signal Modulation & Demodulation
+- Spectral Analysis
+
+
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 DSP/
@@ -43,7 +55,7 @@ DSP/
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - **Python 3.8+**
 - **Streamlit** - Interactive web application framework
@@ -54,7 +66,7 @@ DSP/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -91,66 +103,8 @@ The application will open in your default web browser at `http://localhost:8501`
 
 ---
 
-## 📚 Course Topics Covered
 
-- Sampling and Quantization
-- Fourier Analysis & FFT
-- Filtering Techniques
-- Signal Convolution
-- Z-Transform
-- Digital Filter Design
-- Signal Modulation & Demodulation
-- Spectral Analysis
 
----
 
-## 📝 Assignments
 
-Each assignment folder contains:
-- Problem statement/objectives
-- Implementation code
-- Results and analysis
-- Visualizations
 
----
-
-## 📊 Features
-
-✨ Interactive Streamlit interface for exploring DSP concepts  
-📈 Real-time signal visualization and analysis  
-🎛️ Interactive parameter adjustment for signal processing algorithms  
-📑 Comprehensive course assignment implementations  
-🎓 Educational focus with detailed explanations  
-
----
-
-## 🔗 Links
-
-- **GitLab Repository:** [FH Joanneum GitLab](https://git-iit.fh-joanneum.at/u58e87)
-- **FH Joanneum:** [https://www.fh-joanneum.at](https://www.fh-joanneum.at)
-
----
-
-## 📄 License
-
-This project is created as coursework for FH Joanneum. Usage is restricted to educational purposes.
-
----
-
-## 🤝 Contributing
-
-This is a course project. Contributions are welcome through:
-- Bug reports
-- Suggestions for improvements
-- Enhanced visualizations
-- Additional examples
-
----
-
-## 📧 Contact
-
-For questions or suggestions regarding this project, please reach out to the author or create an issue in the repository.
-
----
-
-**Status:** In Progress | **Last Updated:** 13 April 2026
