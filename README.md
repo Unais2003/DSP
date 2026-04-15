@@ -82,21 +82,16 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 2. **Create a virtual environment (optional but recommended):**
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   uv sync
    ```
 
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Running the Application
 
 To launch the Streamlit application:
 
 ```bash
-streamlit run app.py
+uv run streamlit run  home.py    
 ```
 
 The application will open in your default web browser at `http://localhost:8501`
