@@ -8,7 +8,7 @@ st.markdown("""
 - **Program:** Data Science and Artificial Intelligence
 - **Course Code:** DAT_SS2026_2
 - **Creation Date:** 14 March 2026
-- **Last Updated:** 13 April 2026
+- **Last Updated:** 18 April 2026
 """)
 
 st.title(" My Digital Signal Processing")
@@ -19,4 +19,7 @@ techniques and applications. Here, you can explore different signal processing m
 Feel free to navigate through the different sections to learn more about DSP concepts and see them in action. Whether you're a student, a professional, or just curious about signal processing, this project has something for everyone. Enjoy exploring the world of Digital Signal Processing!
 """)
 
+
+link = "https://github.com/Unais2003/DSP"
+st.markdown(f"Check out the project on [GitHub]({link}) for more details and code examples.")
 
