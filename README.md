@@ -18,7 +18,7 @@ This repository contains comprehensive coursework for **Digital Signal Processin
 - **Program:** Data Science and Artificial Intelligence
 - **Course Code:** DAT_SS2026_2
 - **Creation Date:** 14 March 2026
-- **Last Updated:** 13 April 2026
+- **Last Updated:** 18 April 2026
 
 ---
 
@@ -45,11 +45,21 @@ This project implements various Digital Signal Processing concepts and technique
 ```
 DSP/
 ├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
-├── app.py                    # Main Streamlit application
-└── assignments/              # Course assignments folder
-    ├── assignment_1/
-    ├── assignment_2/
+├── project.toml          # Python dependencies
+├── Home.py               # Main Streamlit application
+├── uv.lock                 
+└── data/              # data folder
+    ├── assignment_01/
+    ├── assignment_02/
+    └── ...
+└── pages/              # different pages
+    ├── assignment_01/
+    ├── assignment_02/
+    └── ...
+└── resources/              # external resources
+└── src/                  # modules and func
+    ├── assignment_01/
+    ├── assignment_02/
     └── ...
 ```
 
@@ -80,7 +90,7 @@ Ensure you have Python 3.8 or higher installed on your system.
    cd DSP
    ```
 
-2. **Create a virtual environment (optional but recommended):**
+2. **Create a virtual environment:**
    ```bash
    uv sync
    ```
